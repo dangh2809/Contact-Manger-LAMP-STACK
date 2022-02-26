@@ -1,0 +1,21 @@
+html body {
+	background-color: #fff;
+}
+
+section {
+	padding: 2em 0 0 0;
+}
+
+
+.error-message {
+	font-size: 1.2em;
+	color: #cc330d;
+}
+
+.error-message-signup {
+	color: #cc330d;
+}
+
+.success-message-signup {
+	color: #09D870;
+}
